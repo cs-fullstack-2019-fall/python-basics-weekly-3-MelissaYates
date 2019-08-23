@@ -1,0 +1,17 @@
+# Bank Program
+#When executed, give the user 4 options:
+1) Check balance
+2) Add money to account
+3) Withdraw money from account
+4) Quit
+
+1b If the user selects check balance, show the account balance.
+2a. Ask user if you would like to make a deposit or not
+2b. Ask the user how much money they want to deposit, show updated amount in current balance, print. line by line until they enter '4'
+
+# 3a. Ask the user how much money they want to withdraw.
+# 3b. If they don't have enough money in the account, print "Insufficient funds".
+
+
+
+
