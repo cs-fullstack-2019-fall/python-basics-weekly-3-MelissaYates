@@ -1,3 +1,8 @@
+#### Overall a *really* nice job! Only one logic bug.
+#### Nice touches on the input handling and your comments were super! well done!
+
+
+
 # python-basics-weekly-3
 
 ## Create a bank program.
